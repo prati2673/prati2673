@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/cute-adorable-little-girl-character-avatar-isolated_925324-1724.jpg" alt="Profile Picture" width="200" />
-  <h1 align="center">Hi 👋, I'm Shubhashree Pradhan</h1>
- <i><strong><h2 align="center">Passionate about Full Stack Development with Java</h2></strong></i>
+  <img src="https://img.freepik.com/free-vector/young-girl-anime-character-poster_603843-2522.jpg" alt="Profile Picture" width="200" />
+  <h1 align="center">Hi 👋, I'm Pratishruti Mohanty</h1>
+ <i><strong><h2 align="center">Crafting Full Stack Applications with Passion.</h2></strong></i>
 </p>
 
 ---
@@ -22,15 +22,10 @@
 -  Example: Automating payroll calculations, generating reports, etc.
 5. What authentication and authorization features are you implementing?
 -  Example: Role-based access (admin, HR, employee).
-6. How are you designing the user interface for HR and employees?
--  Example: Dashboards, forms, or reports.
-7. Are you integrating any third-party APIs or services?
--  Example: Attendance systems, payroll services, etc.
-8. What challenges have you encountered in the development process so far?
    
-- 📫 How to reach me: **shubhashree2673@gmail.com**.
+- 📫 How to reach me: **pratishrutim2@gmail.com**.
   
-- ⚡ Fun fact: **I love exploring new technologies just as much as I enjoy a good adventure.**
+- ⚡ Fun fact: **I believe the best ideas come when you’re having fun and experimenting!**
 
 ---
 
@@ -55,16 +50,16 @@ A system to handle employee data efficiently.
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/shubhashree-pradhan" target="blank">
+  <a href="https://www.linkedin.com/in/pratishruti-mohanty-8a3704240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/wynter_sun7" target="blank">
+  <a href="https://instagram.com/orchid.lyra_2673" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/shubha2673" target="blank">
+  <a href="https://www.codechef.com/users/pratishrutim2" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/shubhashree2673" target="blank">
+  <a href="https://www.hackerrank.com/profile/pratishrutim2" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
@@ -78,6 +73,6 @@ A system to handle employee data efficiently.
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubha81149&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubha81149&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prati2673&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prati2673&" alt="GitHub Streak" />
 </p>
